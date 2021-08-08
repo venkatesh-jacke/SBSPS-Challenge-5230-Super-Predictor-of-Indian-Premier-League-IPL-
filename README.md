@@ -28,7 +28,6 @@
  ```
 
 ## Using this extracted data file, we created a dashboard 
-[dashboard](workflow/dashboardP.pdf)
 <object data="workflow/dashboardP.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="workflow/dashboardP.pdf">
         <p>Click here to <a href="workflow/dashboardP.pdf">Download PDF</a>.</p>
