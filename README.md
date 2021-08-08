@@ -30,6 +30,17 @@
 ## Using this extracted data file, we created a dashboard 
 <object data="workflow/dashboardP.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="workflow/dashboardP.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="workflow/dashboardP.pdf">Download PDF</a>.</p>
+        <p>Click here to <a href="workflow/dashboardP.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+## The workflow directory contains the workflow to make analysis of IPL dataset and logic towards extracting the data.
+```
+📦workflow
+ ┣ 📜create-and-deploy-a-scoring-model-to-predict-heartrate-failure.png
+ ┣ 📜dashboardP.pdf
+ ┣ 📜key.txt
+ ┣ 📜logic.txt
+ ┣ 📜workflow_small.png
+ ┗ 📜work_flo.txt
+```
