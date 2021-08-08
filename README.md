@@ -37,9 +37,7 @@
 ## The workflow directory contains the workflow to make analysis of IPL dataset and logic towards extracting the data.
 ```
 📦workflow
- ┣ 📜create-and-deploy-a-scoring-model-to-predict-heartrate-failure.png
  ┣ 📜dashboardP.pdf
- ┣ 📜key.txt
  ┣ 📜logic.txt
  ┣ 📜workflow_small.png
  ┗ 📜work_flo.txt
