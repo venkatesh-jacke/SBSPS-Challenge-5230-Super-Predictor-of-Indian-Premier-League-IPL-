@@ -28,7 +28,7 @@
  ```
 
 ## Using this extracted data file, we created a dashboard 
-[dashboard]("workflow/dashboardP.pdf")
+[dashboard](workflow/dashboardP.pdf)
 <object data="workflow/dashboardP.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="workflow/dashboardP.pdf">
         <p>Click here to <a href="workflow/dashboardP.pdf">Download PDF</a>.</p>
@@ -36,7 +36,7 @@
 </object>
 
 ## The workflow directory contains the workflow to make analysis of IPL dataset and logic towards extracting the data.
-![workflow]("workflow/workflow_small.png")
+![workflow](workflow/workflow_small.png "EDA Workflow")
 
 ```
 📦workflow
