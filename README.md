@@ -1,19 +1,35 @@
 # SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-
 ## We did Exploratory Analysis on Indian Premier League Dataset, and extracted the important features from it.
 ## It was made in Jupyter Notebook and also separately as Python Script. The files are in
-📦source \
- ┣ 📜IPL_objectives.ipynb \
+
+```
+📦source 
+ ┣ 📜IPL_objectives.ipynb 
  ┗ 📜IPL_objectives.py
+ ```
+
 ### Before running script make sure that all modules are installed. Use either jupyter notebook or directly run it as python file.
-# Here the objective are explained.
-## 1) To find the team that won the most number of matches in the entire IPL
-`
-most_no_of_wins = df.groupby('winner').apply(lambda x: x).reset_index() 
-most_no_of_wins = most_no_of_wins.groupby('winner').count()
-most_no_of_wins = most_no_of_wins.city.reset_index(name='No_Of_Wins')
-most_no_of_wins = most_no_of_wins.sort_values(by='No_Of_Wins',ascending=False)
-`
-## The most wins are founded by grouping winner teams and counting the number of matches they won and sorting them and finnally plotting it in graph.
 
-## All the Extracted features and data are saved in output directory
+## All the Extracted features and datas are saved as csv file in output directory
+```
+📦output
+ ┣ 📜10_won_by_batting_second.csv
+ ┣ 📜11_Win_Most_Runs_cumulatively.csv
+ ┣ 📜1_most_wins_by_team.csv
+ ┣ 📜2_most_matches_lost.csv
+ ┣ 📜3.csv
+ ┣ 📜4_most_MOM.csv
+ ┣ 📜5_most_matches_cities.csv
+ ┣ 📜6_winning_team_per_season.csv
+ ┣ 📜7_most_umpire_on_field.csv
+ ┣ 📜8_chasing_vic.csv
+ ┣ 📜8_defending_vict.csv
+ ┗ 📜9_won_by_batting_first.csv
+ ```
 
+## Using this extracted data file, we created a dashboard 
+<object data="workflow/dashboardP.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="workflow/dashboardP.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="workflow/dashboardP.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
