@@ -23,7 +23,7 @@
 # Using this extracted data file, we visualized the features and created a [Dashboard](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/blob/master/Dashboard.pdf)
 <object data="Dashboard.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/Dashboard.pdf">
-        <p>Click here to <a href="https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/Dashboard.pdf">Download PDF</a>.</p>
+        <p>Click here to <a href="https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/raw/master/Dashboard.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
