@@ -21,10 +21,11 @@
 </div>
 
 # Experimental Investigations
-<font size="10">While analysiing the solution for this problem we have found some unwanted and some 
+<div style="font-size:25px;">While analysiing the solution for this problem we have found some unwanted and some 
 duplicate data that need to  be processed in a manner such that to get a accurate results. 
 So, that we have removed some unwanted data also merged the duplicate data. In our 
-project there are such constratints which can affect the analysis such as </font>
+project there are such constratints which can affect the analysis such as</div>
+
 * There are some IPL Teams which changes their name at some seasons Eg:Delhi Daredevils, Royal Challengers Banglore, Sunrises Hyderabad etc... 
 * There are some new IPL Teams which played for only few ipl seasons Eg: Kochi Tuskers 
 Kerala etc.. 
