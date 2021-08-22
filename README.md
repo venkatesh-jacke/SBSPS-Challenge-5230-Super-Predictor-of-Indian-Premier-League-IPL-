@@ -11,23 +11,24 @@
 </object>
 
 ## Proposed solution working flow
-<div style=" display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%">
-<img src="https://www.researchgate.net/profile/Jayash-Sharma/publication/335572825/figure/fig1/AS:846755302215682@1578893604900/Block-Diagram-for-Proposed-Model.ppm" alt="sol-flow" hight="50" width="200"/>
+<div align="center">
+<img src="https://www.researchgate.net/profile/Jayash-Sharma/publication/335572825/figure/fig1/AS:846755302215682@1578893604900/Block-Diagram-for-Proposed-Model.ppm" alt="sol-flow" hight="100" width="350"/>
 </div>
 
 ## Project Workflow Diagram
-<div style=" display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%">
-<img src="https://drive.google.com/uc?export=view&id=1Yr4yPMYReyavstmbkC9LPez2xiL3hBYM" alt="proj-flow" hight="50" width="200"/>
+<div align="center">
+<img src="https://drive.google.com/uc?export=view&id=1Yr4yPMYReyavstmbkC9LPez2xiL3hBYM" alt="proj-flow" hight="100" width="500"/>
 </div>
 
 # Experimental Investigations
-While analysiing the solution for this problem we have found some unwanted and some 
+<font size="10">While analysiing the solution for this problem we have found some unwanted and some 
 duplicate data that need to  be processed in a manner such that to get a accurate results. 
 So, that we have removed some unwanted data also merged the duplicate data. In our 
-project there are such constratints which can affect the analysis such as
+project there are such constratints which can affect the analysis such as </font>
+* There are some IPL Teams which changes their name at some seasons Eg:Delhi Daredevils, Royal Challengers Banglore, Sunrises Hyderabad etc... 
+* There are some new IPL Teams which played for only few ipl seasons Eg: Kochi Tuskers 
+Kerala etc.. 
+* There is also teams like Pune Warriors played for some season. 
+* There is also some teams like chennai and Rajasthan got banned for couple of years. 
+* There evolved a 2 teams Gujarat Lions and  Rising Pune Spergiants which was  replacing 
+the Chennai and Rajasthan. 
