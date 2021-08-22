@@ -10,7 +10,9 @@
 
 
 # Objective
-## The objective of this solution is to create dashboard that visualizes following capabilities and also forecast the future results 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objective of this solution is to create dashboard that visualizes following capabilities and also forecast the future results 
+<div align="center">
+
 1. To find the team that won the most number of matches in the entire IPL. 
 2. To find the team that lost the most number of matches in the entire IPL. 
 3. Does winning a toss increase the chances of victory. 
@@ -22,6 +24,7 @@
 9. Which team won the most matches while batting first. 
 10. Which team won the most matches while batting second. 
 11. List of teams which have won matches by most runs cumulatively 
+</div>
 # Using this extracted data file, we created a dashboard 
 <object data="workflow/dashboardP.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="Dashboard.pdf">
