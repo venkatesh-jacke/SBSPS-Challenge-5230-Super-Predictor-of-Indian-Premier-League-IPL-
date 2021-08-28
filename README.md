@@ -29,7 +29,7 @@
 
 <!-- https://drive.google.com/file/d/1XuPefzF9RePBK__5kADv1LM_mkC7sBAt/view?usp=sharing 1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw -->
 [![Watch the video](https://drive.google.com/uc?export=view&id=1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw)](https://youtu.be/kTsoTImxmhc)
-
+<!-- 
 ## Proposed Solution Working Flow
 <div align="center">
 <img src="https://www.researchgate.net/profile/Jayash-Sharma/publication/335572825/figure/fig1/AS:846755302215682@1578893604900/Block-Diagram-for-Proposed-Model.ppm" alt="sol-flow" hight="100" width="350"/>
@@ -52,4 +52,4 @@ Kerala etc..
 * There is also teams like Pune Warriors played for some season. 
 * There is also some teams like chennai and Rajasthan got banned for couple of years. 
 * There evolved a 2 teams Gujarat Lions and  Rising Pune Spergiants which was  replacing 
-the Chennai and Rajasthan. 
+the Chennai and Rajasthan.  -->
