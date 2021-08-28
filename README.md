@@ -30,8 +30,8 @@
 
 <!-- https://drive.google.com/file/d/1XuPefzF9RePBK__5kADv1LM_mkC7sBAt/view?usp=sharing 1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw -->
 [![Watch the video](https://drive.google.com/uc?export=view&id=1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw)](https://youtu.be/kTsoTImxmhc)
-# Click the Dashboard Demo Video
-<a href="https://youtu.be/kTsoTImxmhc"><button target="_blank">Demo Video</button></a>
+# Dashboard Demo Video ![Click Me](https://youtu.be/kTsoTImxmhc)
+<!-- <a href="https://youtu.be/kTsoTImxmhc"><button target="_blank">Demo Video</button></a> -->
 
 <!-- 
 ## Proposed Solution Working Flow
