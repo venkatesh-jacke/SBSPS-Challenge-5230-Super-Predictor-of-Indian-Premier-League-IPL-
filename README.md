@@ -19,6 +19,36 @@
 # Objective
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objective of this solution is to create dashboard that visualizes following capabilities and also forecast the future results 
 # 1. To find the team that won the most number of matches in the entire IPL. 
+![output_1](images/o1.png)
+# 2. To find the team that lost the most number of matches in the entire IPL. 
+![output_2](images/o2.png)
+
+# 3. Does winning a toss increase the chances of victory.
+![output_3](images/o3.png)
+
+# 4. To find the player with the most player of the match awards. 
+![output_4](images/o4.png)
+
+# 5. To find the city that hosted the maximum number of IPL matches. 
+![output_5](images/o5.png)
+
+# 6. To find the most winning team for each season. 
+![output_6](images/o6.png)
+
+# 7. To find the on-field umpire with the maximum number of IPL matches. 
+![output_7](images/o7.png)
+
+# 8. To find the biggest victories in IPL while defending a total and while chasing a total. 
+![output_8](images/o8.png)
+
+# 9. Which team won the most matches while batting first. 
+![output_9](images/o9.png)
+
+# 10. Which team won the most matches while batting second. 
+![output_10](images/o10.png)
+
+# 11. List of teams which have won matches by most runs cumulatively 
+![output_11](images/o11.png)
 
 <!-- <div style="text-align: left">
 1. To find the team that won the most number of matches in the entire IPL. 
