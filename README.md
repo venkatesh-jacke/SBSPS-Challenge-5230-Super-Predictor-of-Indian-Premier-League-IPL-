@@ -14,7 +14,7 @@
 [![Watch the video](https://drive.google.com/uc?export=view&id=1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw)](https://www.youtube.com/watch?v=kTsoTImxmhc&target=_blank)
 
 
-# Dashboard Demo Video Click [Here](https://www.youtube.com/watch?v=kTsoTImxmhc&?target=_blank)
+# Dashboard Demo Video Click [Here](https://www.youtube.com/watch?v=kTsoTImxmhc" target="_blank) 
 
 
 
