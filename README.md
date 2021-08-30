@@ -16,7 +16,7 @@
 [![Watch the video](https://drive.google.com/uc?export=view&id=1ApGElz3Zc-Xu2U98qFbbxPQQjS1B48iA)](https://www.youtube.com/watch?v=kTsoTImxmhc)
 
 
-# Dashboard Demo Video Click <a href="#" onClick="window.open(https://www.youtube.com/watch?v=kTsoTImxmhc);return false;">Here</a>
+# Dashboard Demo Video Click <a href="#" onClick='window.open("https://www.youtube.com/watch?v=kTsoTImxmhc");return false;'>Here</a>
 
 
 
