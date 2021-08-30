@@ -19,36 +19,41 @@
 # Objective
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objective of this solution is to create dashboard that visualizes following capabilities and also forecast the future results 
 # 1. To find the team that won the most number of matches in the entire IPL. 
-![output_1](images/o1.png)
+![output_1](images/task-01.png)
 # 2. To find the team that lost the most number of matches in the entire IPL. 
-![output_2](images/o2.png)
+![output_2](images/task-02.png)
 
 # 3. Does winning a toss increase the chances of victory.
-![output_3](images/o3.png)
+![output_3](images/task-03.png)
 
 # 4. To find the player with the most player of the match awards. 
-![output_4](images/o4.png)
+![output_4](images/task-04.png)
 
 # 5. To find the city that hosted the maximum number of IPL matches. 
-![output_5](images/o5.png)
+![output_5](images/task-05.png)
 
 # 6. To find the most winning team for each season. 
-![output_6](images/o6.png)
+![output_6](images/task-06.png)
 
 # 7. To find the on-field umpire with the maximum number of IPL matches. 
-![output_7](images/o7.png)
+![output_7](images/task-07.png)
 
 # 8. To find the biggest victories in IPL while defending a total and while chasing a total. 
-![output_8](images/o8.png)
+![output_8](images/task-08.png)
 
 # 9. Which team won the most matches while batting first. 
-![output_9](images/o9.png)
+![output_9](images/task-09.png)
 
 # 10. Which team won the most matches while batting second. 
-![output_10](images/o10.png)
+![output_10](images/task-10.png)
 
 # 11. List of teams which have won matches by most runs cumulatively 
-![output_11](images/o11.png)
+![output_11](images/task-11.png)
+
+# Thank You
+# Team Members
+## Prasanth A R - https://github.com/ptech12
+## Venkatesh E  - https://github.com/venkatesh-jacke
 
 <!-- <div style="text-align: left">
 1. To find the team that won the most number of matches in the entire IPL. 
