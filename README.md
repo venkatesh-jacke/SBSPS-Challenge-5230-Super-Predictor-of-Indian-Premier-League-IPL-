@@ -4,19 +4,19 @@
 
 # Using this extracted data file, we visualized the features and created a Dashboard
 # Click here to open [Dashboard](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/blob/master/Dashboard.pdf)
-<h1>
+
 <object data="Dashboard.pdf" type="application/pdf">
     <embed src="https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/Dashboard.pdf">
         <p style="font-size:25px;">Click here to <a href="https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/raw/master/Dashboard.pdf">Download PDF</a>. </p>
     </embed>
 </object>
-</h1>
-<!-- https://drive.google.com/file/d/1XuPefzF9RePBK__5kADv1LM_mkC7sBAt/view?usp=sharing 1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw -->
+<!-- https://drive.google.com/file/d/1XuPefzF9RePBK__5kADv1LM_mkC7sBAt/view?usp=sharing 1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw 
+1ApGElz3Zc-Xu2U98qFbbxPQQjS1B48iA-->
 
-[![Watch the video](https://drive.google.com/uc?export=view&id=1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw)](https://www.youtube.com/watch?v=kTsoTImxmhc)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1ApGElz3Zc-Xu2U98qFbbxPQQjS1B48iA)](https://www.youtube.com/watch?v=kTsoTImxmhc)
 
 
-# Dashboard Demo Video Click  <a href="https://www.youtube.com/watch?v=kTsoTImxmhc" target="_blank">Here</a>
+# Dashboard Demo Video Click <a href="#" onClick="window.open(https://www.youtube.com/watch?v=kTsoTImxmhc);return false;">Here</a>
 
 
 
