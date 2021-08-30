@@ -11,8 +11,10 @@
 </object>
 
 <!-- https://drive.google.com/file/d/1XuPefzF9RePBK__5kADv1LM_mkC7sBAt/view?usp=sharing 1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw -->
-[![Watch the video](https://drive.google.com/uc?export=view&id=1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw)](https://youtu.be/kTsoTImxmhc)
-# Dashboard Demo Video [Click Me](https://youtu.be/kTsoTImxmhc)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw)](https://youtu.be/kTsoTImxmhc?target=_blank)
+
+
+# Dashboard Demo Video Click [Here](https://youtu.be/kTsoTImxmhc)
 
 
 
@@ -50,10 +52,11 @@
 # 11. List of teams which have won matches by most runs cumulatively 
 ![output_11](images/task-11.png)
 
-# Thank You
 # Team Members
-## Prasanth A R - https://github.com/ptech12
-## Venkatesh E  - https://github.com/venkatesh-jacke
+### Prasanth A R - https://github.com/ptech12
+### Venkatesh E  - https://github.com/venkatesh-jacke
+
+# Thank You
 
 <!-- <div style="text-align: left">
 1. To find the team that won the most number of matches in the entire IPL. 
