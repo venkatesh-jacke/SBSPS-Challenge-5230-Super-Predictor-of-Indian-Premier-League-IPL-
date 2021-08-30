@@ -11,10 +11,10 @@
 </object>
 
 <!-- https://drive.google.com/file/d/1XuPefzF9RePBK__5kADv1LM_mkC7sBAt/view?usp=sharing 1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw -->
-[![Watch the video](https://drive.google.com/uc?export=view&id=1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw)](https://youtu.be/kTsoTImxmhc?target=_blank)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw)](https://www.youtube.com/watch?v=kTsoTImxmhc&target=_blank)
 
 
-# Dashboard Demo Video Click [Here](https://youtu.be/kTsoTImxmhc)
+# Dashboard Demo Video Click [Here](https://www.youtube.com/watch?v=kTsoTImxmhc&?target=_blank)
 
 
 
