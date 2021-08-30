@@ -16,12 +16,12 @@
 [![Watch the video](https://drive.google.com/uc?export=view&id=1ApGElz3Zc-Xu2U98qFbbxPQQjS1B48iA)](https://www.youtube.com/watch?v=kTsoTImxmhc)
 
 
-# Dashboard Demo Video Click <a href="#" onClick='window.open("https://www.youtube.com/watch?v=kTsoTImxmhc");return false;'>Here</a>
-
+# Dashboard Demo Video Click [Here](https://www.youtube.com/watch?v=kTsoTImxmhc)
 
 
 # Objective
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The objective of this solution is to create dashboard that visualizes following capabilities and also forecast the future results 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### The objective of this solution is to create dashboard that visualizes following capabilities and also forecast the future results 
 # 1. To find the team that won the most number of matches in the entire IPL. 
 ![output_1](images/task-01.png)
 # 2. To find the team that lost the most number of matches in the entire IPL. 
