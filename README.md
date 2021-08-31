@@ -5,14 +5,14 @@
 
 # Using this extracted data file, we visualized the features and created a Dashboard
 # Project Report [Download Here](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/raw/master/Report.pdf)
-# Click here to open [Dashboard](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/blob/master/Dashboard.pdf)
+# Click here to open [Dashboard](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/blob/master/Dashboard.pdf) or [Download Dashboard](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/raw/master/Dashboard.pdf) 
 
 
-<object data="Dashboard.pdf" type="application/pdf">
+<!-- <object data="Dashboard.pdf" type="application/pdf">
     <embed src="https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/Dashboard.pdf">
         <p style="font-size:25px;">Click here to <a href="https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/raw/master/Dashboard.pdf">Download PDF</a>. </p>
     </embed>
-</object>
+</object> -->
 
 <!-- https://drive.google.com/file/d/1XuPefzF9RePBK__5kADv1LM_mkC7sBAt/view?usp=sharing 1fGsW31LoHTwjjufiWmZYTuKTkY0TWLBw 
 1ApGElz3Zc-Xu2U98qFbbxPQQjS1B48iA-->
