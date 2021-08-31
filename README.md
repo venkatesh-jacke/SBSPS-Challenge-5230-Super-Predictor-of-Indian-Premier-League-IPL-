@@ -20,8 +20,8 @@
 
 
 # Objective
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-### The objective of this solution is to create dashboard that visualizes following capabilities and also forecast the future results 
+### 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The objective of this solution is to create dashboard that visualizes following capabilities and also forecast the future results 
 # 1. To find the team that won the most number of matches in the entire IPL. 
 ![output_1](images/task-01.png)
 # 2. To find the team that lost the most number of matches in the entire IPL. 
