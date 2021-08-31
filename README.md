@@ -4,7 +4,7 @@
 ## We did Exploratory Data Analysis on [Indian Premier League Dataset](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/blob/master/matches-DATASET.csv), and extracted the important features from it.
 
 # Using this extracted data file, we visualized the features and created a Dashboard
-# Project Report []()
+# Project Report [Download Here](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/raw/master/Report.pdf)
 # Click here to open [Dashboard](https://github.com/smartinternz02/SBSPS-Challenge-5230-Super-Predictor-of-Indian-Premier-League-IPL-/blob/master/Dashboard.pdf)
 
 
